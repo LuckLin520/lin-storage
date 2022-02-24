@@ -1,0 +1,22 @@
+{
+  "name": "lin-storage",
+  "version": "1.0.0",
+  "description": "响应式localStorage实现",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/LuckLin520/lin-storage#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckLin520/lin-storage.git"
+  },
+  "devDependencies": {
+    "rollup": "^2.68.0",
+    "eslint": "^8.9.0",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
